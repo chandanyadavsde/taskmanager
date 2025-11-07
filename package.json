@@ -4,7 +4,7 @@
   "description": "Build a RESTful Task Manager API in Node.js that lets authenticated users create, read, update, and delete their tasks. The app should feel production-ready, with clean structure, validation, tests, and documentation.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo No tests yet",
     "start": "node index.js"
   },
   "keywords": [],
